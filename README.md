@@ -17,6 +17,6 @@ Atualmente estou estudando para me tornar um desenvolvedor. <img src="https://me
 ---
 
 ###
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eualehsan)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrossousa)
 
 
