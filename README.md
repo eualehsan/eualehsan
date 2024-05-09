@@ -1,15 +1,12 @@
-<h1 align="left">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="left">E aí  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-### :man_technologist: &nbsp;About me:
+### :man_technologist: &nbsp;Sobre mim
 
-I am learning to become a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-- 📫 Find me on&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eualehsan)
-
+Atualmente estou estudando para me tornar um desenvolvedor. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ---
 
-### ⚙️ &nbsp;Languages:
+### 🛠️ &nbsp;Estudando
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -20,6 +17,6 @@ I am learning to become a developer <img src="https://media.giphy.com/media/WUlp
 ---
 
 ###
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eualehsan)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eualehsan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
