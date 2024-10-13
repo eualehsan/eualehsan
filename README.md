@@ -6,7 +6,7 @@ Atualmente estou estudando para me tornar um desenvolvedor. <img src="https://me
 
 ---
 
-### 🛠️ &nbsp;Skills
+### 🛠️ &nbsp;Linguagens
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
