@@ -20,7 +20,7 @@ Atualmente estou estudando para me tornar um desenvolvedor. <img src="https://me
 ### &nbsp;Frameworks
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="HTML" width="40" height="40"/>&nbsp;
 </p>
 
 ---
